@@ -1,0 +1,16 @@
+{
+  "typeCheckingMode": "off",
+  "reportMissingImports": true,
+  "reportMissingTypeStubs": false,
+  "extraPaths": [
+    "/home/asidev/miniconda3/envs/jesse/lib/python3.10/site-packages"
+  ],
+  "executionEnvironments": [
+    {
+      "root": "/home/asidev/my-bot",
+      "extraPaths": [
+        "/home/asidev/miniconda3/envs/jesse/lib/python3.10/site-packages"
+      ]
+    }
+  ]
+}
